@@ -1,0 +1,47 @@
+[
+  {
+    "name": "id",
+    "type": "INTEGER",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "client_id",
+    "type": "INTEGER",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "product_category",
+    "type": "INTEGER",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "product_company",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "amount",
+    "type": "INTEGER",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "date_start",
+    "type": "DATE",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "date_end",
+    "type": "DATE",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "is_active",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "active_timestamp",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  }
+]

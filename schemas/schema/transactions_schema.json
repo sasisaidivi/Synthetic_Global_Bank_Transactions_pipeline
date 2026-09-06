@@ -1,0 +1,42 @@
+[
+  {
+    "name": "id",
+    "type": "INTEGER",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "client_id",
+    "type": "INTEGER",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "product_category",
+    "type": "INTEGER",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "product_company",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "subtype",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "amount",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "date",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "transaction_type",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "client_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "product_category",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "product_company",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "amount",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "date_start",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "date_end",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]

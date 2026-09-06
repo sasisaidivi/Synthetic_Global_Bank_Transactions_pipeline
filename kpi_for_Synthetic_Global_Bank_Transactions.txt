@@ -1,0 +1,18 @@
+1.Total Transaction Amount Measures the total value of all transactions.
+	Shows the total monetary value of all transactions processed during a selected period. It helps measure the overall financial activity and business volume.
+	
+2.Total Transaction Count Measures transaction volume and overall system a2.ctivity.
+	Shows the total number of transactions completed during a selected period. It helps identify transaction volume, customer activity, and system usage.
+	
+3.Total Deposits vs Total Credit Compares customer deposits with credit amounts to understand financial position.
+	Compares the total amount deposited by customers with the total credit amount provided to them. It helps evaluate the bank’s deposit base, lending activity, and financial position.
+	
+4.Customer Growth Rate Measures the percentage increase in registered customers over time.
+	Measures the percentage increase in registered customers over a specific period. It helps evaluate customer acquisition and business growth.
+	
+	Customer Growth Rate =	((Current Customers - Previous Customers) / Previous Customers) × 100
+	
+5.Active Subscription Rate Measures the percentage of subscriptions that are currently active.
+	Shows the percentage of subscriptions that are currently active compared with the total number of subscriptions. It helps measure customer retention and subscription performance.
+	
+	Active Subscription Rate = (Active Subscriptions / Total Subscriptions) × 100

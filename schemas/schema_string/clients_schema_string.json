@@ -1,0 +1,67 @@
+[
+  {
+    "name": "id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "fullname",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "address",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "phone_number",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "email",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "workplace",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "birthdate",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "registration_date",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "gender",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "income",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "expenses",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "credit",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "deposit",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]
